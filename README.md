@@ -4,7 +4,7 @@ scientist
 
 |  ><(((º> | >°)))彡 | ^ ˘ ω ˘ ^ | <コ:彡 | V=(° °)=V | ( ´・ω・)o |
 
-![LSD.a](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Flsd-gifs&psig=AOvVaw2TQoiHN5SjCnx0lagDnomU&ust=1692078491280000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjnv92524ADFQAAAAAdAAAAABAE "It's a trip")
+![LSD.a](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Flsd-gifs&psig=AOvVaw2TQoiHN5SjCnx0lagDnomU&ust=1692078491280000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjnv92524ADFQAAAAAdAAAAABAE.gif "It's a trip")
 
 # 📸 Image Data Aggregation and Analysis
 
