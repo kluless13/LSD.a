@@ -4,7 +4,7 @@ scientist
 
 |  ><(((º> | >°)))彡 | ^ ˘ ω ˘ ^ | <コ:彡 | V=(° °)=V | ( ´・ω・)o |
 
-![LSD.a](https://tenor.com/LMLQ.gif) 
+!(https://tenor.com/LMLQ.gif) 
 
 # 📸 Image Data Aggregation and Analysis
 
@@ -19,7 +19,7 @@ perform data cleaning, and integrate metadata for deeper insights. We also ventu
 additional columns from existing data and visualized relationships between different columns using 
 linear regression models.
 
-![LSD.a](https://tenor.com/3ZEE.gif)
+!(https://tenor.com/3ZEE.gif)
 
 ## 🌟 Features
 
