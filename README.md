@@ -4,7 +4,7 @@ scientist
 
 |  ><(((º> | >°)))彡 | ^ ˘ ω ˘ ^ | <コ:彡 | V=(° °)=V | ( ´・ω・)o |
 
-!(https://tenor.com/LMLQ.gif) 
+![?](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fnature.2017.21377&psig=AOvVaw3JWMtm8T6TLzvA820xiQ2i&ust=1692079742154000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLChrbO-24ADFQAAAAAdAAAAABAE) 
 
 # 📸 Image Data Aggregation and Analysis
 
@@ -18,8 +18,6 @@ environmental attributes. Our primary focus was to aggregate image data based on
 perform data cleaning, and integrate metadata for deeper insights. We also ventured into deriving 
 additional columns from existing data and visualized relationships between different columns using 
 linear regression models.
-
-!(https://tenor.com/3ZEE.gif)
 
 ## 🌟 Features
 
