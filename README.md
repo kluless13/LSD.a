@@ -4,7 +4,7 @@ scientist
 
 |  ><(((º> | >°)))彡 | ^ ˘ ω ˘ ^ | <コ:彡 | V=(° °)=V | ( ´・ω・)o |
 
-![?](https://tenor.com/beeLh.gif = 50x50) 
+
 
 # 📸 Image Data Aggregation and Analysis
 
