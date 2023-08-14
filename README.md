@@ -4,7 +4,7 @@ scientist
 
 |  ><(((º> | >°)))彡 | ^ ˘ ω ˘ ^ | <コ:彡 | V=(° °)=V | ( ´・ω・)o |
 
-![?](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fnature.2017.21377&psig=AOvVaw3JWMtm8T6TLzvA820xiQ2i&ust=1692079742154000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLChrbO-24ADFQAAAAAdAAAAABAE) 
+![?](https://tenor.com/beeLh.gif = 50x50) 
 
 # 📸 Image Data Aggregation and Analysis
 
@@ -59,6 +59,3 @@ breadth of the analysis.
 - Python 3.x
 - Pandas
 - Matplotlib, Seaborn (for visualization)
-
-
-
